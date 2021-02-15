@@ -1,0 +1,32 @@
+body{
+    height: 100px;
+    background-color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px;
+}
+div {
+    background-color: #6395ed;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    margin-top: 50px;
+}
+img{
+    height: 55px;
+}
+h1{
+    margin: 20px;
+    color: white;
+    font-weight: 400;
+}
+li{
+    list-style: none;
+    display: inline;
+}
+li a{
+    display:inline;
+    text-decoration-line: none;
+    color: white;
+    margin-right: 175px;
+    margin-left:-15px;
+    }
